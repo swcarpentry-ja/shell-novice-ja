@@ -17,8 +17,7 @@ keypoints:
 to display more information on how to use these commands or programs."
 - "`man command` displays the manual page for a given command."
 - "`$(command)` inserts a command's output in place."
----
-In the same way that many of us now use "Google" as a 
+---In the same way that many of us now use "Google" as a 
 verb meaning "to find", Unix programmers often use the 
 word "grep".
 "grep" is a contraction of "global/regular expression/print",
