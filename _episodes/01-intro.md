@@ -19,22 +19,22 @@ keypoints:
 - "The shell's main disadvantages are its primarily textual nature and how cryptic its commands and operation can be."
 ---
 ### Background
-At a high level, computers do four things:
+コンピューターは以下の４つのことを高度におこなっています。
 
--   run programs
--   store data
--   communicate with each other, and
--   interact with us
+- プログラムを実行する
+-  データを保存する
+-  他のコンピューターとやりとりをする
+-   私たちとやりとりをする
 
-They can do the last of these in many different ways,
-including through a keyboard and mouse, or touch screen interfaces, or speech recognition using systems.
-While such hardware interfaces are becoming more commonplace, most interaction is still
-done using screens, mice, touchpads and keyboards.
+私たちとのやりとりは様々な方法で行います。
+例えば、キーボードやマウスを使ったり、タッチスクリーンを使ったり、音声認識を使ったりです。
+このようなハードウェアインターフェイスは一般的になりつつありますが、ほとんどのやりとりはまだ
+画面とマウスやタッチパッドとキーボードを用いて行われます。
 
-We are all familiar with **graphical user interfaces** (GUI - windows, icons and pointers). 
-They are easy to learn and fantastic for simple tasks where a vocabulary consisting of
-"click" translates easily into "do the thing I want". But this magic relies on 
-wanting a simple set of things, and having programs that can do exactly those things.
+私たちは皆「グラフィカルユーザーインテーフェイス  (GUI)」とよばれる、ウインドウやアイコンやポインターで操作することに慣れています。
+それらは簡単になれることができ、単純なタスクをこなすのには適しています。
+「クリック」は「やりたいことをやってください」を意味します。 
+しかし、この魔法のような単純さは、やりたいことが単純で、それを行うプログラムが存在していなければなりません。
 
 If you wish to do complex, purpose-specific things it helps to have a richer means
 of expressing your instructions to the computer. It doesn't need to be complicated or
@@ -43,13 +43,13 @@ difficult, just a vocabulary of commands and a simple grammar for using them.
 This is what the shell provides - a simple language and a **command-line interface** 
 to use it through. 
 
-The heart of a command-line interface is a **read-evaluate-print loop**, or REPL, called
-so because when you type a command and press the Enter (or Return) key, the shell:
-1. Reads it
-2. Executes (or "evaluates" it)
-3. Prints the output
+コマンドラインインターフェースの核は、REPL (read-evaluate-print-loop)と呼ばれています。
+これは、シェルにコマンドを入力し、Enter(または Return)キーを押した時に起こる動作:
+1. コマンドを読み込む(Read)
+2. コマンドを実行する (または "評価する" - Evaluate)
+3. 結果を出力する (Print)
 
-and then prints the prompt and waits for you to enter another command.
+そして、プロンプトで次のコマンドの入力を待ち、1〜3の動作を繰り返す(Loop)ことから、頭文字を取ってREPLと呼ばれています。
 
 ### The Shell
 
@@ -140,8 +140,8 @@ and then print the prompt and wait for you to enter another command.
 > ~~~
 > {: .language-bash}
 > 
-> Usually this means that you have mis-typed the command - in this case we omitted
-> the space between `ls` and `-F`. 
+> 通常これは、あなたがコマンドをタイプミスしたことを意味します。このケースでは
+> `ls` と `-F` の間に空白を忘れています。
 {: .callout}
 
 ### Is it difficult?
