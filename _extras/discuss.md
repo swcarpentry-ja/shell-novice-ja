@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Discussion"
-permalink: /discuss/
+permalink: /ja/discuss/
 ---
 ## Alphabet Soup
 

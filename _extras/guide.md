@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Instructor Notes"
-permalink: /guide/
+permalink: /ja/guide/
 ---
 *   Why do we learn to use the shell?
     *   Allows users to automate repetitive tasks

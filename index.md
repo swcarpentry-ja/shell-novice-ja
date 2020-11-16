@@ -1,6 +1,7 @@
 ---
 layout: lesson
-root: .
+root: /ja/
+permalink: /ja/index.html
 ---
 
 Unixシェルは、ほとんどのユーザーが生きていたよりもずっと長くなっています。 

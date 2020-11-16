@@ -1,6 +1,6 @@
 ---
 layout: reference
-permalink: /reference/
+permalink: /ja/reference/
 ---
 
 ## 基本コマンドのまとめ
