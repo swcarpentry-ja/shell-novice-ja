@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Contributor Code of Conduct"
+root: /ja/
 permalink: /ja/conduct/
 ---
 As contributors and maintainers of this project,
