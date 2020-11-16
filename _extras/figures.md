@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Figures
+root: /ja/
+permalink: /ja/figures/
 ---
 <script>
   window.onload = function() {
