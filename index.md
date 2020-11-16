@@ -1,5 +1,6 @@
 ---
 layout: lesson
+title: "Unixシェル"
 root: /ja/
 permalink: /ja/index.html
 ---
