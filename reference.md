@@ -1,7 +1,7 @@
 ---
 layout: reference
 Title: "Reference"
-root: ..
+root: /ja/
 permalink: /ja/reference/
 ---
 

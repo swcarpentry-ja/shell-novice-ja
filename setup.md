@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Setup
-root: ..
+root: /ja/
 permalink: /ja/setup/
 ---
 
