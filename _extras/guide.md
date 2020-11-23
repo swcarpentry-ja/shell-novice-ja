@@ -125,7 +125,9 @@ as long as learners using Windows do not run into roadblocks such as:
     and display help text for each piece. Additional nice manual tool could
     be <http://tldr-pages.github.io/> with short very descriptive manuals
     for shell commands, useful especially on Windows while using Git BASH
-    where `man` could not work.*   Another super cool online resource is <http://www.shellcheck.net>,
+    where `man` could not work.
+
+*   Another super cool online resource is <http://www.shellcheck.net>,
     which will check shell scripts (both uploaded and typed in) for common errors.
 
 *   Resources for "splitting" your shell so that recent commands
@@ -143,9 +145,11 @@ as long as learners using Windows do not run into roadblocks such as:
 
 *   Introducing and navigating the filesystem in the shell (covered in
     [Navigating Files and Directories]({{ page.root }}/02-filedir/) section)
-    can be confusing. You may have both terminal and GUI file explorer open
+    can be confusing. You may have both terminal and GUI file explorer open 
     side by side so learners can see the content and file structure while
-    they're using terminal to navigate the system.*   Tab completion sounds like a small thing: it isn't.
+    they're using terminal to navigate the system.
+
+*   Tab completion sounds like a small thing: it isn't.
     Re-running old commands using `!123` or `!wc`
     isn't a small thing either,
     and neither are wildcard expansion and `for` loops.

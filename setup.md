@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Setup
-root: .
+root: ..
+permalink: /ja/setup/
 ---
 
 You need to download some files to follow this lesson:
